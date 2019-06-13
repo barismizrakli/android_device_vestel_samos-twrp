@@ -16,4 +16,4 @@ Display | 720x1440 pixels, 5.7"
 Rear Camera  | 13.0 MP + 5.0 MP, Dual-LED
 Front Camera | 8.0 MP, LED-Flash
 
-![samos](https://cdn3.epey.com/resim/126386/b_vestel-venus-v6-1.png "samos")
+![samos](https://www.vestel.com.tr/ProductImages/LargeImagesNew/20274272_r3.png "samos")
